@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Vivek</string>
+    <string name="this_is_a_custum_toast">this is a custum toast</string>
+    <string name="button">Button</string>
+    <string name="sos">SOS</string>
+    <string name="Gaurd" />
+    <string name="guard">Guard</string>
+    <string name="gauard">Gauard</string>
+    <string name="Guard">Guard</string>
+    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_me">In case of emergency, Keep telling Family members to contact me</string>
+    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_Me">In case of emergency, Keep telling Family members to contact me</string>
+    <string name="tv">TODO</string>
+    <string name="in_case_of_emergency_contact_me" />
+    <string name="in_case_of_emergency_contact_me_">In case of Emergency contact me</string>
+    <string name="in_case_of_emergency_coctact_me">In Case Of Emergency coctact me</string>
+    <string name="security">Security</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="Guard_">Guard</string>
+    <string name="guard_">Guard</string>
+    <string name="Profile">Profile</string>
+    <string name="my_family">My Family</string>
+    <string name="caluclate">caluclate</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_family_">My Family</string>
+    <string name="my_fsmily__">My Fsmily</string>
+    <string name="my_family__">My Family_</string>
+</resources>
