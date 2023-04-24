@@ -1,31 +1,16 @@
 <resources>
-    <string name="app_name">Vivek</string>
-    <string name="this_is_a_custum_toast">this is a custum toast</string>
-    <string name="button">Button</string>
-    <string name="sos">SOS</string>
-    <string name="Gaurd" />
-    <string name="guard">Guard</string>
-    <string name="gauard">Gauard</string>
-    <string name="Guard">Guard</string>
-    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_me">In case of emergency, Keep telling Family members to contact me</string>
-    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_Me">In case of emergency, Keep telling Family members to contact me</string>
-    <string name="tv">TODO</string>
-    <string name="in_case_of_emergency_contact_me" />
-    <string name="in_case_of_emergency_contact_me_">In case of Emergency contact me</string>
-    <string name="in_case_of_emergency_coctact_me">In Case Of Emergency coctact me</string>
+    <string name="app_name">MyFamily</string>
     <string name="security">Security</string>
+    <string name="sos">SOS</string>
     <string name="home">Home</string>
     <string name="dashboard">Dashboard</string>
-    <string name="profile">Profile</string>
-    <string name="Guard_">Guard</string>
-    <string name="guard_">Guard</string>
-    <string name="Profile">Profile</string>
+    <string name="guard">Guard</string>
+    <string name="user">User</string>
+    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_me">In case of emergency, keep telling family members to contact me</string>
+    <string name="open_when_you_are_on_a_potentially_dangerous_journey">Open when you are on a potentially dangerous journey</string>
     <string name="my_family">My Family</string>
-    <string name="caluclate">caluclate</string>
-    <string name="login">Login</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="my_family_">My Family</string>
-    <string name="my_fsmily__">My Fsmily</string>
-    <string name="my_family__">My Family_</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="default_web_client_id_auth"> 281631309467-qs6ql3cgitegtktu5419rrb8eavte3rl.apps.googleusercontent.com</string>
 </resources>
